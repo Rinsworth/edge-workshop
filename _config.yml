@@ -15,3 +15,5 @@ navigation:
     url: assets/files/sample_resume.pdf
   - title: Crab
     url: test
+  - title: Crab
+    url: test2
