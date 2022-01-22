@@ -13,4 +13,6 @@ navigation:
     url: example
   - title: Resume
     url: assets/files/sample_resume.pdf
+  - title : 1-a-day
+    url : test
 
