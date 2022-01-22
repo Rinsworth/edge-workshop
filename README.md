@@ -12,3 +12,5 @@ See [setup and customization instructions](https://kbsezginel.github.io/gh-pages
 ## EDGE Slides
 
 [Workshops slides](https://docs.google.com/presentation/d/1ToS6iPzangpvVvmq7LQP90Cf1TqK6QwH6cugIhmD4uY/edit?usp=sharing) for your reference.
+
+https://alexag05.github.io/
